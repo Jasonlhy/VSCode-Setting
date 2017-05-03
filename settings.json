@@ -1,0 +1,30 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.rulers": [
+        0,
+        100
+    ],
+    "editor.wordWrapColumn": 100,
+    "editor.wordWrap": "bounded",
+    "editor.tabCompletion": true,
+    "window.zoomLevel": 0,
+    "editor.snippetSuggestions": "top",
+    "editor.fontFamily": "Hack, Consolas, 'Courier New', monospace",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "vim.useCtrlKeys": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.useSystemClipboard": true
+}

@@ -1,0 +1,13 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "backspace",
+        "command": "extension.smartBackspace",
+        "when": "config.hungryDelete.enableSmartBackspace && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+backspace",
+        "command": "extension.hungryDelete",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
